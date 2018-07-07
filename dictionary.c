@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // Implements a dictionary's functionality
+=======
+// Implements a dictionary's functionality using a trie data structure
+>>>>>>> 2930f00bb48c21d2c65597b28ef9d128d2449940
 
 #include <ctype.h>
 #include <stdbool.h>
